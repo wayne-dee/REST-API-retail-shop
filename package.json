@@ -1,0 +1,27 @@
+{
+  "name": "rest-shopproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayne-dee/REST-API-retail-shop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wayne-dee/REST-API-retail-shop/issues"
+  },
+  "homepage": "https://github.com/wayne-dee/REST-API-retail-shop#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
